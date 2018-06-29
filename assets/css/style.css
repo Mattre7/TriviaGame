@@ -1,0 +1,64 @@
+.mainarea {
+    border-style: solid;
+    border-width: 4px;
+    border-color: white;
+    min-width: 500px;
+}
+
+.mainheader {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+    border-width: 0 0 5px 0;
+    border-style: solid;
+    border-color: white;
+    margin: 0 50px;
+    padding: 30px 20px 15px;
+}
+
+.start-btn {
+    background-color: white;
+    margin: 80px 25% 125px;
+    border-style: double;
+    border-width: 12px;
+    border-color: orange;
+    color: orange;
+    height: 125px;
+    width: 50%;
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.submit-btn {
+    background-color: white;
+    margin: 30px 35% 30px;
+    border-style: double;
+    border-width: 12px;
+    border-color: orange;
+    color: orange;
+    height: 100px;
+    width: 30%;
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.timer {
+    color: white;
+    text-align: center;
+    margin: 15px;
+    font-family: monospace;
+    font-size: 45px;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    margin: 15px;
+}
+
+.choice {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin: 15px;
+}
